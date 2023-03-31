@@ -1,0 +1,1 @@
+`certutil -hashfile [file] [md5/sha1]`

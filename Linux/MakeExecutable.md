@@ -1,0 +1,1 @@
+`sudo chmod +x /usr/share/testfolder/aFile`

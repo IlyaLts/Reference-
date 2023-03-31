@@ -1,0 +1,4 @@
+```
+cd somefolder/
+python3 -m http.server
+```
